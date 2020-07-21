@@ -1,4 +1,5 @@
 ## SENTIMENT ANALYSIS OF TWEETS
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br>
 ### INTRODUCTION
 <p align='justify'>In recent times people have started using social networking platforms like twitter..etc. This has
 generated huge amounts of structured and unstructured data. Processing these huge amounts of
