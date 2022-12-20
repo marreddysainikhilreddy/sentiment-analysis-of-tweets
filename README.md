@@ -69,8 +69,8 @@ more epochs before the reduced model starts overfitting (around epoch 10). Moreo
 ### MODEL ARCHITECTURE
 ![model architecture](https://user-images.githubusercontent.com/48044041/88028665-970c1980-cb56-11ea-8f79-7643ccabc754.png)
 ### Kaggle Score
-<img src='score_img/kaggle_score.PNG'>
-<img src='score_img/score1.PNG'>
+<img src='https://user-images.githubusercontent.com/48044041/208591004-16dda4d6-299f-4d9e-93a8-7eefe24244c2.PNG'>
+<img src='https://user-images.githubusercontent.com/48044041/208590762-13982523-7c8d-4d49-8c5a-bc60dfeff5a8.PNG'>
 
 ## Future Work
 Working on different approches to improving the Accuracy...
